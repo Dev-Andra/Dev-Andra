@@ -1,8 +1,7 @@
 # 💫 About Me:
-👶 13 Years Old
-🎮 Avid Gamer
-🖥️ Tech Enthusiast
-<br>
+👶 13 Years Old<br>
+🎮 Avid Gamer<br>
+🖥️ Tech Enthusiast<br>
 
 
 ## 🌐 Socials:
